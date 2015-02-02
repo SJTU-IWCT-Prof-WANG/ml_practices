@@ -1,6 +1,6 @@
 #coding=utf8
 #
-# Filename:    sequence_method.py
+# Filename:    naive_bayes_method.py
 # Author:      Ge CHEN <princhene1991@126.com>
 # Date:        2015-02-01
 #
